@@ -1,0 +1,8 @@
+email: dotjavafile@gmail.com
+
+% explained:
+
+% is also used as a modulus operator for math
+%s stands for string or character
+%d stands for integer number
+%f stands for floating number
